@@ -1,0 +1,32 @@
+{
+    "name": "CubeTower.Tests.PlayMode",
+    "rootNamespace": "CubeTower.Tests.PlayMode",
+    "references": [
+        "CubeTower.Core",
+        "CubeTower.Application",
+        "CubeTower.Infrastructure",
+        "CubeTower.Presentation",
+        "CubeTower.Composition",
+        "Zenject",
+        "UniTask",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "R3.dll",
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

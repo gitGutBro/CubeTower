@@ -1,0 +1,30 @@
+{
+    "name": "CubeTower.Tests.EditMode",
+    "rootNamespace": "CubeTower.Tests.EditMode",
+    "references": [
+        "CubeTower.Core",
+        "CubeTower.Application",
+        "CubeTower.Infrastructure",
+        "CubeTower.Presentation",
+        "UniTask",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "R3.dll",
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

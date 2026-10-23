@@ -1,0 +1,18 @@
+{
+    "name": "CubeTower.Infrastructure",
+    "rootNamespace": "CubeTower.Infrastructure",
+    "references": [
+        "CubeTower.Core",
+        "CubeTower.Application",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

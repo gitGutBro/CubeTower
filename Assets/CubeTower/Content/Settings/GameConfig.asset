@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e79186bf61089ff40bf887ea6a70f367, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  _cubeCount: 20
+  _colors:
+  - _id: cube_01
+    _color: {r: 0.58431375, g: 0.05490196, b: 0.14117648, a: 1}
+    _sprite: {fileID: 21300000, guid: 5a2bf601d1b41354aa8f5f805d6d14c0, type: 3}
+  - _id: cube_02
+    _color: {r: 0.8980392, g: 0.12941177, b: 0.16862746, a: 1}
+    _sprite: {fileID: 21300000, guid: 5f5bf72028f97ed429df46e441414543, type: 3}
+  - _id: cube_03
+    _color: {r: 0.93333334, g: 0.46666667, b: 0.11764706, a: 1}
+    _sprite: {fileID: 21300000, guid: 3af2dcc89c5d28c4795f0d87ffe9150b, type: 3}
+  - _id: cube_04
+    _color: {r: 0.9843137, g: 0.8156863, b: 0.21176471, a: 1}
+    _sprite: {fileID: 21300000, guid: 1d7d2c89be50b1f479762f34d88d97a5, type: 3}
+  - _id: cube_05
+    _color: {r: 0.10980392, g: 0.6784314, b: 0.21176471, a: 1}
+    _sprite: {fileID: 21300000, guid: 88354ece0f2ab1948a64984b237c1955, type: 3}
+  - _id: cube_06
+    _color: {r: 0.05882353, g: 0.6156863, b: 0.9254902, a: 1}
+    _sprite: {fileID: 21300000, guid: e6c54eab37469a842aad2edb5c642006, type: 3}
+  - _id: cube_07
+    _color: {r: 0.25882354, g: 0.2901961, b: 0.7607843, a: 1}
+    _sprite: {fileID: 21300000, guid: 3baaa4b7816da29439ec834a981d3b43, type: 3}
+  - _id: cube_08
+    _color: {r: 0.6509804, g: 0.23921569, b: 0.6509804, a: 1}
+    _sprite: {fileID: 21300000, guid: 7ae4a0a868e2de84fafc16a286631bfd, type: 3}
+  - _id: cube_09
+    _color: {r: 0.6627451, g: 0.6627451, b: 0.6627451, a: 1}
+    _sprite: {fileID: 21300000, guid: 595e17b87c987ee46b5aa1c772ed3af9, type: 3}
+  - _id: cube_10
+    _color: {r: 0.6392157, g: 0.36862746, b: 0.27058825, a: 1}
+    _sprite: {fileID: 21300000, guid: 5a42142f67b2ba844b8e4f1417ac5ed7, type: 3}
+  - _id: cube_11
+    _color: {r: 0.33333334, g: 0.33333334, b: 0.33333334, a: 1}
+    _sprite: {fileID: 21300000, guid: d9e8eb67fbd506c4aae8987deb4da95d, type: 3}
+  - _id: cube_12
+    _color: {r: 0.53333336, g: 0.14901961, b: 0.4862745, a: 1}
+    _sprite: {fileID: 21300000, guid: 9cc0183db05cf1e47ad730cfe33a810e, type: 3}
+  - _id: cube_13
+    _color: {r: 0.92156863, g: 0.30588236, b: 0.6627451, a: 1}
+    _sprite: {fileID: 21300000, guid: c027ffcbd1fd1d845884c3ccf600ac9f, type: 3}
+  - _id: cube_14
+    _color: {r: 0.21960784, g: 0.8117647, b: 0.80784315, a: 1}
+    _sprite: {fileID: 21300000, guid: c4f236533af87504ca203b6392c763c6, type: 3}
+  - _id: cube_15
+    _color: {r: 0.6666667, g: 0.84313726, b: 0.20784314, a: 1}
+    _sprite: {fileID: 21300000, guid: acceb75dacfc49d40a8a113ab0a73534, type: 3}
+  - _id: cube_16
+    _color: {r: 0.627451, g: 0.49019608, b: 0.99607843, a: 1}
+    _sprite: {fileID: 21300000, guid: ac6c6b918c624034480e4761f308d34a, type: 3}
+  - _id: cube_17
+    _color: {r: 0.49803922, g: 0.92941177, b: 0.95686275, a: 1}
+    _sprite: {fileID: 21300000, guid: 7a9be66596013d7449616c889721d4cd, type: 3}
+  - _id: cube_18
+    _color: {r: 0.6509804, g: 0.25490198, b: 0.23921569, a: 1}
+    _sprite: {fileID: 21300000, guid: 6d7a2043fa380d74b88308c4bcee89eb, type: 3}
+  - _id: cube_19
+    _color: {r: 1, g: 0.87058824, b: 0.5372549, a: 1}
+    _sprite: {fileID: 21300000, guid: 8f76c89648c0d714dbadf5cfa93eec3c, type: 3}
+  - _id: cube_20
+    _color: {r: 0.8392157, g: 0.4627451, b: 0.9411765, a: 1}
+    _sprite: {fileID: 21300000, guid: 2df13d9407e0fdf40b47453598df2ca3, type: 3}

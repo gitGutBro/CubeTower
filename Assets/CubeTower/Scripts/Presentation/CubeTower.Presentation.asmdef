@@ -1,0 +1,21 @@
+{
+    "name": "CubeTower.Presentation",
+    "rootNamespace": "CubeTower.Presentation",
+    "references": [
+        "CubeTower.Core",
+        "CubeTower.Application",
+        "UniTask",
+        "R3.Unity",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

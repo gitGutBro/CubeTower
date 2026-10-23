@@ -1,0 +1,23 @@
+{
+    "name": "CubeTower.Composition",
+    "rootNamespace": "CubeTower.Composition",
+    "references": [
+        "CubeTower.Core",
+        "CubeTower.Application",
+        "CubeTower.Infrastructure",
+        "CubeTower.Presentation",
+        "UniTask",
+        "R3.Unity",
+        "Zenject",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
